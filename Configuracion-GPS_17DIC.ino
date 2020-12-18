@@ -40,7 +40,7 @@ void setup() {
 
 //HOLA
 offGps();
-
+//gps apagado
 }
 
 
