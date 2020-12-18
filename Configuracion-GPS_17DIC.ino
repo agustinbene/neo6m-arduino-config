@@ -38,7 +38,7 @@ void setup() {
   //cfnGPS();
 //restartGps();
 
-
+//HOLA
 offGps();
 
 }
