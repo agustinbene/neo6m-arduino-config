@@ -40,8 +40,7 @@ void setup() {
 
 //HOLA
 offGps();
-offGps();
-offGps();
+
 //gps apagado
 }
 
@@ -49,7 +48,7 @@ offGps();
 
 void loop() {
 
-
+/*
   if (digitalRead(4) == 1 && flag4 == 0) {
     flag4 = 1;
     Serial.print(digitalRead(4)); Serial.println("cnfGPS");
@@ -79,7 +78,7 @@ void loop() {
   }
 
 
-  delay(100);
+  delay(100);*/
 }
 
 // Send a byte array of UBX protocol to the GPS
